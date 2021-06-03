@@ -1,4 +1,4 @@
-/* 
+/*
     localizable.strings
     WeScanSampleProject
 
@@ -17,5 +17,6 @@
 
 /* The button titles on the Scanning screen. */
 "wescan.scanning.cancel" = "Cancel";
+"wescan.scanning.finish" = "Finish";
 "wescan.scanning.auto" = "Auto";
 "wescan.scanning.manual" = "Manual";
